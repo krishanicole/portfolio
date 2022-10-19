@@ -1,6 +1,6 @@
 body {
     background-color: #18191a;
-    color: grey;
+    color: 242526;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -8,4 +8,7 @@ body {
         background-color: #242526;
         color: white;
     }
+}
+.card{
+    background-color: aqua;
 }
